@@ -1,5 +1,5 @@
-# open-rag
-An open-source implementation of a Retrieval-Augmented Generation (RAG) system.
+# OpenRAG
+An tiny open-source implementation of a Retrieval-Augmented Generation (RAG) system.
 
 ## Overview
 This project implements a RAG system that combines the power of large language models with a retrieval mechanism to generate more accurate and contextually relevant responses.
